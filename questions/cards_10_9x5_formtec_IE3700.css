@@ -1,0 +1,98 @@
+@page {
+    /* A4 measures 210 × 297 millimeters */
+    size: A4 portrait;
+    margin-top: 2.35cm;
+    margin-right: 1.5cm;
+    margin-bottom: 2.35cm;
+    margin-left: 1.5cm;
+    border: 1pt dotted #000;
+}
+
+
+table, figure, section, footer{
+    page-break-inside: avoid;
+    break-inside: avoid-region;
+    word-break-inside: avoid;
+}
+
+@page:right{
+    @bottom-right {
+        content: counter(page);
+    }
+}
+
+@page:left{
+    @bottom-left {
+        content: counter(page);
+    }
+}
+
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+    box-sizing: border-box;
+    font-family: "NanumGothic", Arial, sans-serif;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.cards {
+    clear: both;
+    float: left;
+    font-family: "NanumGothic", Arial, sans-serif;
+    font-size: 0.42cm;
+    line-height: 0.5cm;
+    display: grid;
+    grid-template-columns: 9cm 9cm;
+    grid-auto-rows: auto;
+    grid-column-gap: 0cm;
+    grid-row-gap: 0cm;
+    margin-top: 2.35cm;
+    margin-right: 1.5cm;
+    margin-bottom: 2.35cm;
+    margin-left: 1.5cm;
+}
+
+.card {
+    text-align: center;
+    border: thin dotted #000;
+    border-radius: 0.2cm;
+    padding: 0.25cm;
+    width: 9cm;  /* requires box-sizing: border-box; fix */
+    height: 5cm; /* requires box-sizing: border-box; fix */
+}
+
+.card > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1pt solid #000;
+    border-radius: 0.25cm;
+    overflow: hidden;
+    padding: 0.25cm;
+    width: 8.5cm;
+    height: 4.5cm;
+}
+
+.notes {
+    clear: both;
+    border-top: 1px dashed red;
+    border-left: 1px dashed red;
+    padding-left: 0.25cm;
+}
+
+@font-face {
+    font-family: "NanumGothic";
+    src: url("font/NanumGothic-Regular.ttf");
+}
+@media print {
+    .cards {
+        margin: 0;
+    }
+    .card {
+        border: none;
+    }
+    .notes {
+        display: none;
+    }
+}
