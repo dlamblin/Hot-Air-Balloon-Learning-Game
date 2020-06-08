@@ -11,6 +11,10 @@ feature of the game is that ANY subject questions may be used, and players can
 compose new sets of questions in advance of play; it is recommended to tune the
 questions to the grade level of the players.
 
+## 40 Example Questions
+We have [40 Questions](questions/Questions40.pdf) as an example. 10 each for the 4 categories:
+수학  영어 과학 국어.
+
 ## Extending with fresh questions
 Please be encouraged to write questions for your own play and learning group.
 You can find a template for writing question cards at the following link:
