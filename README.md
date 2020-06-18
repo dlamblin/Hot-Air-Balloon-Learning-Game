@@ -1,4 +1,4 @@
-# Hot Air Balloon Learning Game
+# [Hot Air Balloon Learning Game](https://dlamblin.github.io/Hot-Air-Balloon-Learning-Game/)
 This is the repository for Sophie's customizable game for learning with a hot
 air balloon theme.
 
