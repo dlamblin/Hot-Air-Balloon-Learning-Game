@@ -13,7 +13,7 @@ recommended to tune the questions to the grade level of the players.
 
 ## 40 Example Questions
 We have [40 Questions](questions/Questions40.pdf) as an example.
-10 each for the 4 categories: 수학, 영어, 과학, 국어.
+10 each for the 4 subject categories: 수학, 영어, 과학, 국어.
 
 ## Extending with fresh questions
 Please be encouraged to write questions for your own play and learning group.
@@ -29,7 +29,7 @@ You can find a template for writing question cards at the following link:
 - 40 more pieces, or stickers, of the same 4 colors as spaces
 - 40 cards; ideally 4 card sheets of 10 business cards for questions to start
 - a six sided die
-- multiple player pieces, Sophie used 4 magnetized "pins" as you'd used to
+- multiple player pieces, Sophie used 4 magnetized "pins" as you'd use to
   hold notes to a fridge, but upright.
 - crafting supplies: glue or glue stick, scissors, some color pencils.
 
@@ -42,7 +42,7 @@ glue them around the board.
 Cut all the spaces to the same size. Sophie picked about 2-3cm to a side.
 Place the 5th color home square as the starting piece and alternate other colors
 so that no two colors are next to each other, but that no more than 6 square
-seperate the same color repeating; then end with the final piece with the same
+separate the same color repeating; then end with the final piece with the same
 color as the home piece. Glue all these pieces in place to your board.
 Overlapping a little is allowed. The path may go over the designs you made.
 ##### Why 40 + 2 squares?
@@ -53,7 +53,9 @@ player. She also tested rolling hundreds of rolls. After collecting data and
 simulating it, she found that fifteen rolls most often sums up to the total
 of 42. This is how she chose to make the path 42 squares long.
 #### The question cards
-Use the template linked above to write at least 40 questions in four themes.
+Use the [template linked](
+https://dlamblin.github.io/Hot-Air-Balloon-Learning-Game/questions/index.html)
+above to write at least 40 questions in four subjects.
 Print this onto print-at-home business card sheets; Sophie used Formtec IE3700
 sheets which are 10 cards at 9cm by 5cm each.
 If you have 40 stickers of the same colors as your spaces stick the correct
@@ -79,7 +81,7 @@ where they landed, while a right answer means they can move forward to the next
 space of the same color. Their turn ends here.
 #### Test mode
 If you're playing test mode, a wrong answer means you move back to where you
-were before your roll, while a rigth answer means you can stay where you landed.
+were before your roll, while a right answer means you can stay where you landed.
 The turn ends.
 #### Exam mode
 If you're playing in exam mode, a wrong answer sends the player back to the home
