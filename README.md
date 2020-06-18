@@ -19,18 +19,18 @@ We have [40 Questions](questions/Questions40.pdf) as an example.
 Please be encouraged to write questions for your own play and learning group.
 You can find a template for writing question cards at the following link:
 
-[![QR Code to Questons Template](questions/questions_qr.png)](https://dlamblin.github.io/Hot-Air-Balloon-Learning-Game/questions/index.html)
+[![QR Code to Questions Template](questions/questions_qr.png)](https://dlamblin.github.io/Hot-Air-Balloon-Learning-Game/questions/index.html)
 
-## Making the Board
+## Making the Board Game
 ### You'll need:
 - An A2 or larger board
 - 40 spaces, in 4 colors (10 of each color)
 - 2 extra spaces in a single 5th color
 - 40 more pieces, or stickers, of the same 4 colors as spaces
-- 40 cards; idealy 4 card sheets of 10 business cards for questions to start
+- 40 cards; ideally 4 card sheets of 10 business cards for questions to start
 - a six sided die
 - multiple player pieces, Sophie used 4 magnetized "pins" as you'd used to
-  hold notes to a frige, but upright.
+  hold notes to a fridge, but upright.
 - crafting supplies: glue or glue stick, scissors, some color pencils.
 
 ### Now make:
@@ -50,17 +50,50 @@ Sophie tested rolling, reading, and answering a question. She found it takes
 between 30 seconds to a minute per turn. She wanted that a game of two players
 should last about 30 minutes or less. So we knew we needed about 15+ turns per
 player. She also tested rolling hundreds of rolls. After collecting data and
-simulating it, she found that fifteen rolls most often sums up to the total of
-42. This is how she chose to make the path 42 squares long.
+simulating it, she found that fifteen rolls most often sums up to the total
+of 42. This is how she chose to make the path 42 squares long.
 #### The question cards
 Use the template linked above to write at least 40 questions in four themes.
 Print this onto print-at-home business card sheets; Sophie used Formtec IE3700
 sheets which are 10 cards at 9cm by 5cm each.
 If you have 40 stickers of the same colors as your spaces stick the correct
 color to the back of each card; otherwise glue the extra color paper to each
-back. This devides your cards into the 4 subject decks.
+back. This divides your cards into the 4 subject decks.
 
 You should be ready to play now.
-## Playing
+## Playing the Board Game
+### Setup
+Place a player piece for each player on home, separate the question cards
+into 4 same colored decks and put them face down outside the board.
+Let the youngest player start.
+### Taking your turn
+The player will roll a die, and move that many spaces along the path. The
+next player will then challenge the current player with a question from
+the deck of the same color that the player landed on. The player gets one
+chance to answer correctly. There is no time limit unless all players
+agreed to one in advance. Resolution after being right or wrong depends on
+the game mode chosen for this play.
+#### Fast game play
+If you've opted to play a fast game, a wrong answer means the player stays
+where they landed, while a right answer means they can move forward to the next
+space of the same color. Their turn ends here.
+#### Test mode
+If you're playing test mode, a wrong answer means you move back to where you
+were before your roll, while a rigth answer means you can stay where you landed.
+The turn ends.
+#### Exam mode
+If you're playing in exam mode, a wrong answer sends the player back to the home
+square. A right answer lets them stay where they landed; either ends the turn.
 
-12345678901234567890123456789012345678901234567890123456789012345678901234567890
+Play of any mode continues with the next player being the player
+counter-clockwise of the current player. If any player _unfairly_ gives another
+player the answer their next turn is skipped.
+
+### Winning
+The first player to land or pass the final space is the winner. As there is no
+card the same color as the final space, once rolled it is safe to land on or
+pass in any mode.
+
+## Frequent Play
+Please keep play fresh by asking a parent, teacher, tutor, or older sibling to
+help write fresh question cards by each subject for every 4 to 8 games played.
